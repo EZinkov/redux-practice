@@ -1,5 +1,5 @@
 import React from "react"
-import { CartIcon, ChevronDown } from "../assets/icons"
+import { CartIcon } from "../assets/icons"
 import { useSelector } from "react-redux"
 
 const Navbar = () => {
